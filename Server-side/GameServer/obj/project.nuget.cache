@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ogcu+NStU+Tg5OEJT2hAE/xWoh9ombk9dRHFuahGGSZlZ425RAhWcOdu3H3kPj8+9HtaSrH2mgWa+BZbz7YqrQ==",
+  "dgSpecHash": "AvytpWH1Z93GyNAes4ic607odl4zpoLGV1lL0FDXdzhe4k2yoo1EHjpwJw0PInK6NbiaGxHDHYCHMFqRktIzog==",
   "success": true,
-  "projectFilePath": "F:\\WebSite\\GameServer\\GameServer\\GameServer.csproj",
+  "projectFilePath": "C:\\Users\\User\\Desktop\\GameNetworking_v1\\Server-side\\GameServer\\GameServer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
